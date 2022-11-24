@@ -1,0 +1,17 @@
+{
+  "name": "syncstorage-limits",
+  "short_name": "syncstorage",
+  "description": "A better description of the sync storage limits",
+  "icons": {
+    "48": "icon.jpg"
+  },
+  "manifest_version": 3,
+  "version": "0.1.0",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.jpg"
+  }
+}
